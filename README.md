@@ -1,1 +1,1 @@
-# CSC301_GymTracker
+# SpotMate
