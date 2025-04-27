@@ -1,0 +1,12 @@
+# Virtual environment
+venv/
+
+# Environment variables file
+.env
+
+# Bytecode
+__pycache__/
+*.py[cod]
+
+# Serialized models
+*.pkl
